@@ -34,14 +34,23 @@ The output of Instumentation amplifier is given by
 
   **CIRCUIT DIAGRAM**
 
+<img width="542" height="352" alt="image" src="https://github.com/user-attachments/assets/27055cfa-06f8-4922-a0ce-de1c7fe574f8" />
+
 
   **MODEL GRAPH:**
 
+  <img width="466" height="250" alt="image" src="https://github.com/user-attachments/assets/9699f264-8bc5-4970-8447-88344b988de7" />
+
+
 
   **TABULATION:**
- 
 
-**MODEL CALCULATION:**
+<img width="1600" height="988" alt="image" src="https://github.com/user-attachments/assets/060a9003-86ea-49f9-ae79-ea7ec8a45c46" />
+
+
+**Graph**
+
+<img width="1080" height="1447" alt="image" src="https://github.com/user-attachments/assets/a5665fef-c5bd-4702-8637-07535b744438" />
 
 
 
